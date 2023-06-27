@@ -1,0 +1,20 @@
+{
+    "server": "http://202.114.177.246",
+    "strict_bind": false,
+    "double_stack": false,
+    "retry_delay": 3000,
+    "retry_times": 3,
+    "n": 200,
+    "type": 1,
+    "acid": 1,
+    "os": "Windows",
+    "name": "Windows 98",
+    "users": [
+        {
+            "username": "2110551202@cucc",
+            "password": "12073913",
+            "if_name": "wan"
+        }
+    ]
+}
+
